@@ -1,0 +1,76 @@
+{
+  "scheduler": "Planificador",
+  "actions": {
+    "add": "agregar",
+    "cancel": "cancelar",
+    "next": "sig",
+    "save": "guardar",
+    "delete": "borrar"
+  },
+  "instructions": {
+    "no_group_selected": "Seleccione un grupo primero",
+    "no_entity_selected": "Seleccione una entidad primero",
+    "no_groups_defined": "No hay grupos definidos",
+    "no_entities_for_group": "No hay entidades asignadas para este grupo",
+    "no_actions_for_entity": "No hay acciones para esta entidad",
+    "no_entries_defined": "No hay elementos para mostrar"
+  },
+  "fields": {
+    "group": "Grupo",
+    "entity": "Entidad",
+    "action": "Acción",
+    "days": "Días",
+    "time": "Hora",
+    "options": "Opciones",
+    "day_type_daily": "Todos los días",
+    "day_type_weekdays": "Dias de semana",
+    "day_type_custom": "Personalizado",
+    "shift_with_sun": "automaticamente ajustar el tiempo en base al amanecer/anochecer",
+    "brightness": "Brillo",
+    "temperature": "Temperatura"
+  },
+  "days_short": {
+    "mon": "lun",
+    "tue": "mar",
+    "wed": "mie",
+    "thu": "jue",
+    "fri": "vie",
+    "sat": "sab",
+    "sun": "dom"
+  },
+  "days_long": {
+    "mon": "lunes",
+    "tue": "martes",
+    "wed": "miércoles",
+    "thu": "jueves",
+    "fri": "viernes",
+    "sat": "sábado",
+    "sun": "domingo"
+  },
+  "words": {
+    "on": "Encendido",
+    "every": "cada",
+    "and": "y",
+    "at": "a las",
+    "before": "antes",
+    "after": "despues",
+    "sunrise": "amanecer",
+    "sunset": "anochecer"
+  }, 
+  "services": {
+    "turn_on": "encender",
+    "turn_off": "tuapagar",
+    "close_cover": "cerrar",
+    "open_cover": "abrir",
+    "set_temperature": "establecer temperatura",
+    "set_to": "establecer a"
+  },
+  "domains": {
+    "climate": "cimatización",
+    "cover": "cortinas",
+    "fan": "ventiladores",
+    "light": "luces",
+    "switch": "interruptores",
+    "vacuum": "aspiradora"
+  }
+}
